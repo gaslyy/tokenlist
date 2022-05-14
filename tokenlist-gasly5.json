@@ -50,8 +50,8 @@
 {
  "address": "0xafb85f66fc8ad94805b586be06dac02876a0a5e5",
 "chainId": 80001,
-"name": "USDC",
-"symbol": "USDC",
+"name": "WBTC",
+"symbol": "WBTC",
 "decimals": 18,
 "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
 }
