@@ -38,6 +38,14 @@
 "symbol": "SAND",
 "decimals": 18,
 "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
+},
+{
+"address": "0x3861e9F29fcAFF738906c7a3a495583eE7Ca4C18",
+"chainId": 80001,
+"name": "USDC",
+"symbol": "USDC",
+"decimals": 18,
+"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
 }
 
 ]
