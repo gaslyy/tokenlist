@@ -1,7 +1,7 @@
 [
 {
 "name": "Dai Stablecoin",
-"address": "0x332C7aC34580dfEF553B7726549cEc7015C4B39b",
+"address": "0x3943e1792df4d0cf28170acec3e9c4f0e7554040",
 "symbol": "DAI",
 "decimals": 18,
 "chainId": 80001,
@@ -9,7 +9,7 @@
 },
 {
 "name": "Ether",
-"address": "0xe0695CD828B63C0E4b70fdD44d0f066560EE8CfE",
+"address": "0x58d7ccbe88fe805665eb0b6c219f2c27d351e649",
 "symbol": "ETH",
 "decimals": 18,
 "chainId": 80001,
