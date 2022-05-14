@@ -5,7 +5,7 @@
 "symbol": "DAI",
 "decimals": 18,
 "chainId": 80001,
-"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
 },
 {
 "name": "Ether",
@@ -29,7 +29,7 @@
 "symbol": "WMATIC",
 "decimals": 18,
 "chainId": 80001,
-"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+"logoURI": "https://traderjoexyz.com/static/media/avalanche_token_round.3e178e42.png"
 },
 {
 "address": "0x10b6aC405CB39364D0493fa231926517E587E7c4",
