@@ -24,9 +24,9 @@
 "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
 },
 {
-"name": "Wrapped Matic",
+"name": "Wrapped Avax",
 "address": "0xe02f20BB33F8Bfb48eB907523435CA886e139A08",
-"symbol": "WMATIC",
+"symbol": "WAVAX",
 "decimals": 18,
 "chainId": 80001,
 "logoURI": "https://traderjoexyz.com/static/media/avalanche_token_round.3e178e42.png"
